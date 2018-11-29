@@ -1,0 +1,39 @@
+{
+    "success": true,
+    "result": {
+        "resource_id": "382000000A-000077-002",
+        "limit": 2000,
+        "total": 838,
+        "fields": [
+            {
+                "type": "text",
+                "id": "date"
+            },
+            {
+                "type": "text",
+                "id": "name"
+            },
+            {
+                "type": "text",
+                "id": "isHoliday"
+            },
+            {
+                "type": "text",
+                "id": "holidayCategory"
+            },
+            {
+                "type": "text",
+                "id": "description"
+            }
+        ],
+        "records": [
+            {
+                "date": "2018/11/30",
+                "name": "中華民國開國紀念日",
+                "isHoliday": "是",
+                "holidayCategory": "放假之紀念日及節日",
+                "description": "全國各機關學校放假一日。"
+            }
+        ]
+    }
+}
